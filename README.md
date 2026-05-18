@@ -71,8 +71,8 @@ Agent Governance · Evaluation · Observability · Routing · Prompt Versioning 
 
 ## 📫 联系方式 Contact
 
-📧 leileonwang@outlook.com  
 📧 leileonwang@163.com
+📧 leileonwang@outlook.com  
 
 🌍 求职地：南京 / 上海 / 杭州 / 苏州（可快速到岗）
 
