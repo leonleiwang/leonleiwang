@@ -20,8 +20,7 @@ Focused on building AI-native applications powered by **LLMs, Agentic Systems, R
 ---
 
 ### 🛠 DevMind AI Sentinel
-**多智能体智能运维平台**  
-[![GitHub release](https://img.shields.io/github/v/release/leonleiwang/DevMind-AI-Sentinel?include_prereleases&label=v1.0.0-GA&style=flat-square)](https://github.com/leonleiwang/DevMind-AI-Sentinel/releases/tag/v1.0.0)
+**多智能体智能运维平台**  [![GitHub release](https://img.shields.io/github/v/release/leonleiwang/DevMind-AI-Sentinel?include_prereleases&label=v1.0.0-GA&style=flat-square)](https://github.com/leonleiwang/DevMind-AI-Sentinel/releases/tag/v1.0.0)
 面向云原生微服务环境的智能 Agent 运维助手，支持故障定位、指标分析、多 Agent 协作与智能治理。
 
 > 🎉 **正式版 v1.0.0 已发布**：[查看 Release](https://github.com/leonleiwang/DevMind-AI-Sentinel/releases/tag/v1.0.0)  
