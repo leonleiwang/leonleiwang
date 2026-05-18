@@ -1,6 +1,6 @@
 # 王磊(Lei Wang) / Leon Wang  
 
-**AI Agent 开发工程师 | LLM 大模型应用开发 | 全栈开发 | AI 全栈产品开发**  
+**AI Agent 应用开发 | LLM 大模型应用开发 | 全栈工程师 | AI 全栈产品开发**  
 **AI Agent Engineer | LLM Application Engineer | Fullstack Developer | Fullstack AI Products**
 
 专注于 **AI Agent、多智能体系统、RAG 检索增强、Tool Calling 与 LLM Application**，思考Production AI systems，持续探索如智能客服、电商与工作流自动化场景中的 AI 原生产品和各类功能丰富多彩的Agent Skill，并关注 **Agent Governance 与 Harness Engineering（测试、运行、治理与可观测性）**。
