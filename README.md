@@ -16,6 +16,9 @@ Focused on building AI-native applications powered by **LLMs, Agentic Systems, R
 
 面向电商场景的 AI 智能导购与运营系统，整合商品搜索、推荐、对比、加购与下单流程，支持 Agent workflow、RAG、治理与可观测性。
 
+> 🎉 **架构样板版 v1.0.0 已发布**：[查看 Release](https://github.com/leonleiwang/ShopMind-AI/releases/tag/v1.0.0)  
+> 新增 Incident Timeline / RCA 分析、模糊输入处理、前端大优化与效果视频演示。
+
 *Multi-Agent Conversational Commerce System powered by LangGraph, MCP, RAG and Agent Governance.*
 
 ---
