@@ -12,12 +12,12 @@ Focused on building AI-native applications powered by **LLMs, Agentic Systems, R
 ## 🚀 核心项目 Featured Projects
 
 ### 🛒 ShopMind AI
-**多智能体对话式电商系统**  [![GitHub release](https://img.shields.io/github/v/release/leonleiwang/ShopMind-AI?include_prereleases&label=v1.0.0&style=flat-square)](https://github.com/leonleiwang/ShopMind-AI)
+**多智能体对话式电商系统**  [![GitHub release](https://img.shields.io/github/v/release/leonleiwang/ShopMind-AI?include_prereleases&label=v1.1.0&style=flat-square)](https://github.com/leonleiwang/ShopMind-AI)
 
 面向电商场景的 AI 智能导购与运营系统，整合商品搜索、推荐、对比、加购与下单流程，支持 Agent workflow、RAG、治理与可观测性。
 
-> 🎉 **架构样板版 v1.0.0 已发布**：[查看 Release](https://github.com/leonleiwang/ShopMind-AI/releases/tag/v1.0.0)  
-> 新增 Incident Timeline / RCA 分析、模糊输入处理、前端大优化与效果视频演示。
+> 🎉 **客服联络中心 v1.1.0 已发布**：[查看 Release](https://github.com/leonleiwang/ShopMind-AI/releases/tag/v1.1.0-contact-center)  
+> 新增 客服联络中心(模块) Contact Center Module，包含客服业务骨架：工单主表 + SLA + 订单关联 + 状态流转 + 操作日志 + AI 坐席辅助等，以及一小部分成本路由的更新以便 ai 成本控制。
 
 *Multi-Agent Conversational Commerce System powered by LangGraph, MCP, RAG and Agent Governance.*
 
