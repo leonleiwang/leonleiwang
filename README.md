@@ -23,6 +23,20 @@ Focused on building AI-native applications powered by **LLMs, Agentic Systems, R
 
 ---
 
+### 🎧 ContactFlow AI
+
+**企业客服工单与 AI 坐席辅助系统**
+[![GitHub branch](https://img.shields.io/badge/branch-feature%2Fv0.2--rag--infra-blue?style=flat-square)](https://github.com/leonleiwang/ContactFlow-AI/tree/feature/v0.2-rag-infra)
+
+面向企业客服与工单处理场景的 AI Contact Center 原型系统，采用 **Java Spring Boot + Python AI Service + React** 构建，围绕工单流转、AI 坐席辅助、企业知识库 RAG、异步事件处理与服务治理，探索大模型能力在客服 SaaS 中的工程化落地。
+
+> 🚧 **V0.2 RAG Infrastructure 更新中**：[查看分支](https://github.com/leonleiwang/ContactFlow-AI/tree/feature/v0.2-rag-infra)
+> 已实现工单状态机、并发抢单、审计事件、AI Assist 幂等写入、Python RAG Query API、120 条企业客服评估样本、Markdown 知识库 ingestion、Hybrid Retrieval、Query Rewrite 漂移过滤、证据引用、租户隔离、低置信转人工与 RAG 评估指标。
+
+*Enterprise AI Contact Center prototype with Spring Boot, Python AI Service, React, RAG, Redis/MQ-ready architecture, evidence trace and evaluation-driven AI Assist.*
+
+---
+
 ### 🛠 DevMind AI Sentinel
 **多智能体智能运维平台**  [![GitHub release](https://img.shields.io/github/v/release/leonleiwang/DevMind-AI-Sentinel?include_prereleases&label=v1.0.0-GA&style=flat-square)](https://github.com/leonleiwang/DevMind-AI-Sentinel)
 
@@ -54,16 +68,20 @@ Focused on building AI-native applications powered by **LLMs, Agentic Systems, R
 ## 🧰 技术栈 Tech Stack
 
 ### Backend
-Python · FastAPI · PostgreSQL · Redis · Celery · Docker
+
+Python · FastAPI · Java · Spring Boot · PostgreSQL · MySQL · Redis · RabbitMQ / Kafka · Celery · Docker
 
 ### Frontend
-React · Next.js · TypeScript · Tailwind CSS
+
+React · Next.js · Vue3 · TypeScript · Tailwind CSS
 
 ### AI / Agentic Systems
-LangChain · LangGraph · Agent Harness · RAG · Tool Calling · MCP · Multi-Agent Workflow
+
+LangChain · LangGraph · Agent Harness · RAG · Hybrid Retrieval · Tool Calling · MCP-style Tools · Multi-Agent Workflow
 
 ### Governance / Harness Engineering
-Agent Governance · Evaluation · Observability · Routing · Prompt Versioning · Workflow Debugging · Resilience (Retry / Fallback / Circuit Breaker)
+
+Agent Governance · RAG Evaluation · Evidence Trace · Observability · Routing · Prompt Versioning · Workflow Debugging · Resilience (Retry / Fallback / Circuit Breaker)
 
 ---
 
