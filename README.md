@@ -6,7 +6,7 @@
 **AI Agent Engineer | LLM Application Engineer | Fullstack Developer | Fullstack AI Products**
 
 <p>
-  中文默认 · <a href="./README.en.md">Full English Version</a>
+  中文 · <a href="./README.en.md">English</a>
 </p>
 
 </div>
