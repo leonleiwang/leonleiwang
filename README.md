@@ -31,8 +31,7 @@
 
 ### 🛒 ShopMind AI
 
-**多智能体对话式电商系统**  
-[![GitHub release](https://img.shields.io/github/v/release/leonleiwang/ShopMind-AI?include_prereleases&label=v1.1.1&style=flat-square)](https://github.com/leonleiwang/ShopMind-AI)
+**多智能体对话式电商系统**  [![GitHub release](https://img.shields.io/github/v/release/leonleiwang/ShopMind-AI?include_prereleases&label=v1.1.1&style=flat-square)](https://github.com/leonleiwang/ShopMind-AI)
 
 面向电商场景的 AI 智能导购、运营、客服与 Agent 评测系统，整合商品搜索、推荐、对比、加购、下单、客服工单、HITL 治理、AgentOps 可观测性与 Data Agent 查询能力。
 
@@ -45,8 +44,7 @@
 
 ### 🎧 ContactFlow AI
 
-**企业客服工单与 AI 坐席辅助系统**  
-[![GitHub branch](https://img.shields.io/badge/branch-feature%2Fv0.2--rag--infra-blue?style=flat-square)](https://github.com/leonleiwang/ContactFlow-AI)
+**企业客服工单与 AI 坐席辅助系统**  [![GitHub branch](https://img.shields.io/badge/branch-feature%2Fv0.2--rag--infra-blue?style=flat-square)](https://github.com/leonleiwang/ContactFlow-AI)
 
 面向企业客服与工单处理场景的 AI Contact Center 原型系统，采用 **Java Spring Boot + Python AI Service + React** 构建，围绕工单流转、AI 坐席辅助、企业知识库 RAG、异步事件处理与服务治理，探索大模型能力在客服 SaaS 中的工程化落地。
 
@@ -59,8 +57,7 @@
 
 ### 🛠 DevMind AI Sentinel
 
-**多智能体智能运维平台**  
-[![GitHub release](https://img.shields.io/github/v/release/leonleiwang/DevMind-AI-Sentinel?include_prereleases&label=v1.0.0-GA&style=flat-square)](https://github.com/leonleiwang/DevMind-AI-Sentinel)
+**多智能体智能运维平台**  [![GitHub release](https://img.shields.io/github/v/release/leonleiwang/DevMind-AI-Sentinel?include_prereleases&label=v1.0.0-GA&style=flat-square)](https://github.com/leonleiwang/DevMind-AI-Sentinel)
 
 面向云原生微服务环境的智能 Agent 运维助手，支持故障定位、指标分析、Incident Timeline、RCA 分析、多 Agent 协作与智能治理。
 
