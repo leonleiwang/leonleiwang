@@ -12,7 +12,7 @@ Focused on building AI-native applications powered by **LLMs, Agentic Systems, R
 ## 🚀 核心项目 Featured Projects
 
 ### 🛒 ShopMind AI
-**多智能体对话式电商系统**  [![GitHub release](https://img.shields.io/github/v/release/leonleiwang/ShopMind-AI?include_prereleases&label=v1.1.1&style=flat-square)](https://github.com/leonleiwang/ShopMind-AI/releases/tag/v1.1.1)
+**多智能体对话式电商系统**  [![GitHub release](https://img.shields.io/github/v/release/leonleiwang/ShopMind-AI?include_prereleases&label=v1.1.1&style=flat-square)](https://github.com/leonleiwang/ShopMind-AI)
 
 面向电商场景的 AI 智能导购、运营、客服与 Agent 评测系统，整合商品搜索、推荐、对比、加购、下单、客服工单、HITL 治理、AgentOps 可观测性与 Data Agent 查询能力。
 
@@ -26,7 +26,7 @@ Focused on building AI-native applications powered by **LLMs, Agentic Systems, R
 ### 🎧 ContactFlow AI
 
 **企业客服工单与 AI 坐席辅助系统**
-[![GitHub branch](https://img.shields.io/badge/branch-feature%2Fv0.2--rag--infra-blue?style=flat-square)](https://github.com/leonleiwang/ContactFlow-AI/tree/feature/v0.2-rag-infra)
+[![GitHub branch](https://img.shields.io/badge/branch-feature%2Fv0.2--rag--infra-blue?style=flat-square)](https://github.com/leonleiwang/ContactFlow-AI)
 
 面向企业客服与工单处理场景的 AI Contact Center 原型系统，采用 **Java Spring Boot + Python AI Service + React** 构建，围绕工单流转、AI 坐席辅助、企业知识库 RAG、异步事件处理与服务治理，探索大模型能力在客服 SaaS 中的工程化落地。
 
