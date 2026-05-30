@@ -12,14 +12,14 @@ Focused on building AI-native applications powered by **LLMs, Agentic Systems, R
 ## 🚀 核心项目 Featured Projects
 
 ### 🛒 ShopMind AI
-**多智能体对话式电商系统**  [![GitHub release](https://img.shields.io/github/v/release/leonleiwang/ShopMind-AI?include_prereleases&label=v1.1.0&style=flat-square)](https://github.com/leonleiwang/ShopMind-AI)
+**多智能体对话式电商系统**  [![GitHub release](https://img.shields.io/github/v/release/leonleiwang/ShopMind-AI?include_prereleases&label=v1.1.1&style=flat-square)](https://github.com/leonleiwang/ShopMind-AI/releases/tag/v1.1.1)
 
-面向电商场景的 AI 智能导购与运营系统，整合商品搜索、推荐、对比、加购与下单流程，支持 Agent workflow、RAG、治理与可观测性。
+面向电商场景的 AI 智能导购、运营、客服与 Agent 评测系统，整合商品搜索、推荐、对比、加购、下单、客服工单、HITL 治理、AgentOps 可观测性与 Data Agent 查询能力。
 
-> 🎉 **客服联络中心 v1.1.0 已发布**：[查看 Release](https://github.com/leonleiwang/ShopMind-AI/releases/tag/v1.1.0-contact-center)  
-> 新增 客服联络中心(模块) Contact Center Module，包含客服业务骨架：工单主表 + SLA + 订单关联 + 状态流转 + 操作日志 + AI 坐席辅助等，以及一小部分成本路由的更新以便 ai 成本控制。
+> 🎉 **Agent Eval + Data Agent v1.1.1 已发布**：[查看 Release](https://github.com/leonleiwang/ShopMind-AI/releases/tag/v1.1.1)  
+> 在客服联络中心 v1.1.0 的基础上，新增 Agent Eval + Data Agent 模块，包含 50 条业务评测任务、Baseline Eval、正常任务通过率、Guardrail 拦截率、失败分类、只读 SQL 安全策略、JSON/CSV 报告导出、自然语言数据查询 Console，以及订单异常、客服 SLA、商品表现、退款风险等数据分析场景。
 
-*Multi-Agent Conversational Commerce System powered by LangGraph, MCP, RAG and Agent Governance.*
+*Multi-Agent Conversational Commerce System powered by LangGraph, MCP, RAG, Agent Governance, Agent Eval and Data Agent.*
 
 ---
 
@@ -30,7 +30,7 @@ Focused on building AI-native applications powered by **LLMs, Agentic Systems, R
 
 面向企业客服与工单处理场景的 AI Contact Center 原型系统，采用 **Java Spring Boot + Python AI Service + React** 构建，围绕工单流转、AI 坐席辅助、企业知识库 RAG、异步事件处理与服务治理，探索大模型能力在客服 SaaS 中的工程化落地。
 
-> 🚧 **V0.2 RAG Infrastructure 更新中**：[查看分支](https://github.com/leonleiwang/ContactFlow-AI/tree/feature/v0.2-rag-infra)
+> 🚧 **V0.2 RAG Infrastructure 更新中**：[查看分支](https://github.com/leonleiwang/ContactFlow-AI/tree/feature/v0.2-rag-infra)  
 > 已实现工单状态机、并发抢单、审计事件、AI Assist 幂等写入、Python RAG Query API、120 条企业客服评估样本、Markdown 知识库 ingestion、Hybrid Retrieval、Query Rewrite 漂移过滤、证据引用、租户隔离、低置信转人工与 RAG 评估指标。
 
 *Enterprise AI Contact Center prototype with Spring Boot, Python AI Service, React, RAG, Redis/MQ-ready architecture, evidence trace and evaluation-driven AI Assist.*
