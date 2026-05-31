@@ -24,6 +24,7 @@
 - **Agent Governance**：风险控制、HITL 人工审批、权限边界、审计日志与安全策略
 - **Harness Engineering**：Agent 测试、运行、回放、评测、成本控制与可观测性
 - **Full-stack AI Products**：从后端 API、数据库建模、前端交互到 Docker 部署的端到端交付
+- **模型调优**：LLaMA-Factory等框架、vllm / ollama 部署、有监督微调SFT包含常用算法LoRA / QLoRA、PEFT、指令微调和训练参数配置、模型评估和幻觉控制及数据集的清洗和构建等
 
 ---
 
