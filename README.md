@@ -15,7 +15,7 @@
 
 ## 👋 关于我
 
-我专注于 **AI Agent、多智能体系统、RAG 检索增强、Tool Calling、LLM Application 与生产级 AI 系统工程化**，持续探索智能客服、企业知识库、电商、智能运维与工作流自动化等场景中的 AI 原生产品与 Agent Skill。
+我专注于 **AI Agent、多智能体系统、RAG 检索增强、Function Calling & Tool Use、LLM Application 与生产级 AI 系统工程化**，持续探索智能客服、企业知识库、电商、智能运维与工作流自动化等场景中的 AI 原生产品与 Agent Skill。
 
 当前重点关注：
 
