@@ -69,23 +69,15 @@
 
 ---
 
-### 🎬 OneClick Viral Shorts Skill
+## ⚡ OneClick Agent Skills Series
 
-**短视频研究与发布包生成 Agent Skill**
+一组面向垂直任务自动化的轻量级 AI Agent Skills，将高频、重复、流程化任务封装为“一句话输入 → 结构化交付包”的可复用智能工作流。系列方向不限定行业，包括内容创作、电商运营、跨境比价、金融分析、医疗信息整理、数据处理与个人效率工具等场景。
 
-面向短视频内容创作场景的 AI Agent Skill，根据内容类型、平台、风格与时长自动生成研究分析、剪辑策略、字幕、标题与发布包，支持内容生产与发布工作流自动化。
+A lightweight AI Agent Skills series for vertical task automation, turning simple user inputs into structured, reusable deliverable packages. The series is not limited to one industry and can be extended to content creation, e-commerce operations, cross-border comparison, financial analysis, medical information organization, data processing and productivity workflows.
 
-*AI-powered short-video research and publishing workflow for generating content analysis, editing strategies, subtitles and publishing assets through reusable agent workflows.*
-
----
-
-### 🛍 OneClick Store Marketing Skill
-
-**实体店营销素材生成 Agent Skill**
-
-面向本地门店场景的 AI Agent Skill，通过一句话输入自动生成营销宣传包，覆盖海报、橱窗广告、活动方案、社媒文案与商品图 Prompt 等多渠道营销素材。
-
-*AI-powered local store marketing skill for generating promotional assets, social content and campaign materials through reusable agent workflows.*
+- **🎬 OneClick Viral Shorts Skill**：短视频研究与发布包生成，覆盖趋势分析、选题策略、剪辑方案、字幕、标题、封面建议与发布资产。
+- **🛍 OneClick Store Marketing Skill**：本地门店营销素材生成，覆盖海报文案、橱窗广告、活动方案、社媒内容、商品图 Prompt 与多渠道推广素材。
+- 🔜 Coming Next
 
 ---
 
@@ -113,7 +105,7 @@ Agent Governance · RAG Evaluation · Evidence Trace · Observability · Routing
 
 - Agent Governance：Agent 治理、风险控制、权限边界与审计
 - Harness Engineering：Agent 测试、运行、评测、回放与可观测性
-- Conversational Systems：对话式电商、客服与企业知识助手
+- Conversational Systems：对话式电商、客服助手与企业知识助手、工单流转机、Agent 评估台
 - AI Commerce：AI 电商、智能运营、货架 AI 与商家 Copilot
 - Production-ready LLM Applications：生产级 LLM 应用工程、成本控制与稳定性治理
 
