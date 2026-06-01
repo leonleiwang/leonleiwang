@@ -58,7 +58,7 @@
 
 ### 🛠 DevMind AI Sentinel
 
-**多智能体智能运维平台**  [![GitHub release](https://img.shields.io/github/v/release/leonleiwang/DevMind-AI-Sentinel?include_prereleases&label=v1.0.0-GA&style=flat-square)](https://github.com/leonleiwang/DevMind-AI-Sentinel)
+**多智能体智能运维平台**  [![Release](https://img.shields.io/badge/release-v1.0.0--GA-blue?style=flat-square)](https://github.com/leonleiwang/DevMind-AI-Sentinel)
 
 面向云原生微服务环境的智能 Agent 运维助手，支持故障定位、指标分析、Incident Timeline、RCA 分析、多 Agent 协作与智能治理。
 
