@@ -32,7 +32,7 @@
 
 ### 🛒 ShopMind AI
 
-**多智能体对话式电商系统**  [![Version](https://img.shields.io/badge/version-v1.1.1-blue?style=flat-square)](https://github.com/leonleiwang/ShopMind-AI)
+**多智能体对话式电商系统**  [![Release](https://img.shields.io/badge/version-v1.1.1-blue?style=flat-square)](https://github.com/leonleiwang/ShopMind-AI)
 
 面向电商场景的 AI 智能导购、运营、客服与 Agent 评测系统，整合商品搜索、推荐、对比、加购、下单、客服工单、HITL 治理、AgentOps 可观测性与 Data Agent 查询能力。
 
