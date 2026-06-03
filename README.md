@@ -50,25 +50,7 @@
 面向企业客服联络台与工单处理场景的 AI Contact Center 原型系统，采用 **Java Spring Boot + Python FastAPI AI Service + React** 构建，将工单状态机、并发抢单、AI Assist、企业知识库 RAG、异步事件、缓存幂等、证据追踪与评估指标整合到同一条客服 SaaS 工程链路中。
 
 > 🚀 **V0.3.0 已发布**：[查看 Release](https://github.com/leonleiwang/ContactFlow-AI/releases/tag/v0.3.0)
-> 在 V0.2 可追溯 RAG 和 RabbitMQ / Redis 基础设施之上，V0.3.0 新增 Qwen3-Max / qwen-plus 可选 LLM Provider、模板兜底降级、qwen3-rerank 可选重排序、本地 lightweight rerank fallback、20 条多类型前端演示工单、API 合约校验、边界行为文档、Docker 环境变量透传与发布前工程化检查。系统默认不强依赖真实模型，适合面试现场和本地演示时稳定展示。
-
-**中文分段能力概览：**
-
-- **工单主链路**：Spring Boot 工单领域模型、状态机、并发抢单、审计事件、Flyway MySQL 表结构与 AI Assist 幂等落库。
-- **AI 坐席辅助**：规则引擎 + 可选 Qwen3-Max 真实生成；LLM 关闭、无 Key、超时或返回异常时自动降级到安全模板回复。
-- **RAG 知识库**：Markdown ingestion、NLP 动态切块、父子 chunk、Query Rewrite 语义校验、Vector + BM25 混合召回、证据引用和低置信转人工。
-- **重排序与评估**：可选 qwen3-rerank，失败时降级到本地轻量重排序；提供 Context Recall、Faithfulness、Citation Coverage、Hallucination Risk、Tenant Leak Count 等指标。
-- **前端展示**：React 三栏坐席台，内置 20 条覆盖物流、退款、发票、跨境、投诉、无证据权益、主管升级等场景的演示工单，并保留 mock/degraded/failed 状态用于可靠演示。
-- **工程边界**：Docker Compose、`.env.example`、接口契约文档、边界行为文档、RAG build/eval 脚本与测试覆盖，明确真实向量库、知识治理后台、Kafka、实时前后端联动等规划在 V0.4.0。
-
-**English segmented overview:**
-
-- **Ticket workflow**: Spring Boot domain model, state machine, concurrent ticket claiming, audit events, Flyway MySQL schema, and idempotent AI Assist persistence.
-- **Agent Assist**: rule-based engine plus optional Qwen3-Max generation; falls back to safe templates when the LLM is disabled, missing credentials, timed out, or returns invalid output.
-- **RAG knowledge base**: Markdown ingestion, dynamic NLP-aware chunking, parent-child chunks, query rewrite validation, vector + BM25 hybrid retrieval, citations, and low-confidence handoff.
-- **Rerank and evaluation**: optional qwen3-rerank with local lightweight fallback; includes context recall, faithfulness, citation coverage, hallucination risk, tenant leak count, and retrieval latency metrics.
-- **Frontend demo**: React three-column agent workspace with 20 realistic support tickets across logistics, refund, invoice, cross-border, complaint, unsupported entitlement, and supervisor escalation scenarios.
-- **Engineering readiness**: Docker Compose, environment templates, API contract docs, edge behavior docs, RAG build/eval scripts, and tests; real vector DB, production knowledge governance, Kafka, live ticket integration, and RAG ops dashboards are planned for V0.4.0.
+> 在 V0.2 可追溯 RAG 和 RabbitMQ / Redis 基础设施之上，V0.3.0 新增 Qwen3-Max / qwen-plus 可选 LLM Provider、模板兜底降级、qwen3-rerank 可选重排序、本地 lightweight rerank fallback、20 条多类型前端演示工单、API 合约校验、边界行为文档、Docker 环境变量透传与发布前工程化检查。系统默认不强依赖真实模型，适合降级或熔断场景，以及本地测试和演示时稳定展示。
 
 *Enterprise AI Contact Center prototype with Spring Boot, FastAPI AI Service, React, Qwen3-Max, qwen3-rerank, RAG evidence trace, fallback-first AI Assist, and evaluation-driven support workflows.*
 
