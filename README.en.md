@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # Lei Wang / Leon Wang
@@ -47,15 +46,24 @@ ShopMind AI is an AI-native commerce and customer support platform that integrat
 
 ### 🎧 ContactFlow AI
 
-**Enterprise Customer Support Ticketing and AI Agent Assist System**  
-[![GitHub branch](https://img.shields.io/badge/branch-feature%2Fv0.2--rag--infra-blue?style=flat-square)](https://github.com/leonleiwang/ContactFlow-AI)
+**Enterprise Customer Support Ticketing, AI Agent Assist and RAG Knowledge Base System**
+[![GitHub release](https://img.shields.io/badge/release-v0.3.0-blue?style=flat-square)](https://github.com/leonleiwang/ContactFlow-AI/releases/tag/v0.3.0)
 
-ContactFlow AI is an enterprise AI Contact Center prototype built with **Java Spring Boot + Python AI Service + React**. It explores how LLM capabilities can be integrated into customer support SaaS workflows through ticket lifecycle management, AI-assisted replies, enterprise knowledge base RAG, asynchronous events, and service governance.
+ContactFlow AI is an enterprise AI Contact Center prototype built with **Java Spring Boot + Python FastAPI AI Service + React**. It brings ticket workflow management, AI-assisted replies, enterprise knowledge base RAG, asynchronous events, idempotency, evidence tracing, and evaluation metrics into one support SaaS engineering workflow.
 
-> 🚧 **V0.2 RAG Infrastructure in progress**: [View Branch](https://github.com/leonleiwang/ContactFlow-AI/tree/feature/v0.2-rag-infra)  
-> Implemented ticket state machine, concurrent ticket claiming, audit events, idempotent AI Assist writes, Python RAG Query API, 120 enterprise support evaluation samples, Markdown knowledge ingestion, hybrid retrieval, query rewrite drift filtering, evidence citation, tenant isolation, low-confidence human escalation, and RAG evaluation metrics.
+> 🚀 **V0.3.0 released**: [View Release](https://github.com/leonleiwang/ContactFlow-AI/releases/tag/v0.3.0)
+> Built on top of the V0.2 traceable RAG and RabbitMQ / Redis infrastructure, V0.3.0 adds optional Qwen3-Max / qwen-plus LLM integration, template fallback, optional qwen3-rerank, local lightweight rerank fallback, 20 frontend demo tickets, stricter API contracts, edge behavior documentation, Docker environment propagation, and release-readiness checks. The system is designed to remain demoable even when the real LLM is unavailable.
 
-**Tech focus:** Spring Boot, Python AI Service, React, RAG, Redis/MQ-ready architecture, evidence trace, AI Assist, evaluation-driven workflow.
+**Engineering scope:**
+
+- **Ticket workflow**: Spring Boot domain model, state machine, concurrent ticket claiming, audit events, Flyway MySQL schema, and idempotent AI Assist persistence.
+- **Agent Assist**: rule-based engine plus optional Qwen3-Max generation; falls back to safe templates when the LLM is disabled, missing credentials, timed out, or returns invalid output.
+- **RAG knowledge base**: Markdown ingestion, dynamic NLP-aware chunking, parent-child chunks, query rewrite validation, vector + BM25 hybrid retrieval, citations, and low-confidence handoff.
+- **Rerank and evaluation**: optional qwen3-rerank with local lightweight fallback; includes context recall, faithfulness, citation coverage, hallucination risk, tenant leak count, and retrieval latency metrics.
+- **Frontend demo**: React three-column agent workspace with 20 realistic support tickets across logistics, refund, invoice, cross-border, complaint, unsupported entitlement, and supervisor escalation scenarios.
+- **Engineering readiness**: Docker Compose, environment templates, API contract docs, edge behavior docs, RAG build/eval scripts, and tests; real vector DB, production knowledge governance, Kafka, live ticket integration, and RAG ops dashboards are planned for V0.4.0.
+
+**Tech focus:** Spring Boot, FastAPI AI Service, React, Qwen3-Max, qwen3-rerank, RAG, hybrid retrieval, evidence trace, fallback-first AI Assist, API contract validation, Docker, Redis, RabbitMQ, evaluation-driven workflow.
 
 ---
 
@@ -130,4 +138,3 @@ Agent Governance · RAG Evaluation · Evidence Trace · Observability · Routing
 
 🌍 Based in Nanjing, China · Open to opportunities in China, Australia, New Zealand and Europe.  
 🌍 China job locations: Nanjing / Shanghai / Hangzhou / Suzhou, available for quick onboarding.
-```
