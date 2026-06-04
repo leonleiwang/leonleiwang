@@ -45,7 +45,7 @@
 
 ### 🎧 ContactFlow AI
 
-**企业客服工单、AI 坐席辅助与 RAG 知识库系统**  [![Release](https://img.shields.io/badge/release-v0.3.0-blue?style=flat-square)](https://github.com/leonleiwang/ContactFlow-AI/releases/tag/v0.3.0)
+**企业客服工单、AI 坐席辅助与 RAG 知识库系统**  [![Release](https://img.shields.io/badge/release-v0.3.0-blue?style=flat-square)](https://github.com/leonleiwang/ContactFlow-AI)
 
 面向企业客服联络台与工单处理场景的 AI Contact Center 原型系统，采用 **Java Spring Boot + Python FastAPI AI Service + React** 构建，将工单状态机、并发抢单、AI Assist、企业知识库 RAG、异步事件、缓存幂等、证据追踪与评估指标整合到同一条客服 SaaS 工程链路中。
 
