@@ -116,7 +116,7 @@ Agent Governance · RAG Evaluation · Evidence Trace · Observability · Routing
 📧 leileonwang@163.com  
 📧 leonlei.wang@outlook.com  
 
-🌍 求职地：南京 / 上海 / 杭州 / 苏州，可快速到岗  
+🌍 南京 / 上海 / 杭州 / 苏州  
 🌍 Based in Nanjing, China · Open to opportunities in China, Australia, New Zealand and Europe.
 
 ---
@@ -237,6 +237,6 @@ Agent Governance · RAG Evaluation · Evidence Trace · Observability · Routing
 📧 leonlei.wang@outlook.com  
 
 🌍 Based in Nanjing, China · Open to opportunities in China, Australia, New Zealand and Europe.  
-🌍 China job locations: Nanjing / Shanghai / Hangzhou / Suzhou, available for quick onboarding.
+🌍 China job locations: Nanjing / Shanghai / Hangzhou / Suzhou.
 
 </details>
