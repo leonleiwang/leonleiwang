@@ -6,11 +6,11 @@
 **AI Agent Engineer | LLM Application Engineer | Fullstack Developer | Fullstack AI Products**
 
 <p>
-  中文 · <a href="./README.en.md">English</a>
+  <a href="https://leonleiwang.github.io/"><img src="https://img.shields.io/badge/Website-Portfolio-2C5868?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white&amp;labelColor=35434C" alt="个人网站 / Website Portfolio"></a>
 </p>
 
 <p>
-  <strong><a href="https://leonleiwang.github.io/">个人网站 / Website ↗</a></strong>
+  中文 · <a href="./README.en.md">English</a>
 </p>
 
 </div>
