@@ -8,6 +8,10 @@
   English · <a href="./README.md">中文</a>
 </p>
 
+<p>
+  <strong><a href="https://leonleiwang.github.io/">Personal Website ↗</a></strong>
+</p>
+
 </div>
 
 ---
