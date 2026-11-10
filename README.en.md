@@ -5,7 +5,7 @@
 **AI Agent Engineer | LLM Application Engineer | Fullstack Developer | Fullstack AI Products**
 
 <p>
-  <a href="https://leonleiwang.github.io/"><img src="https://img.shields.io/badge/Website-Portfolio-2C5868?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white&amp;labelColor=35434C" alt="Personal website and portfolio"></a>
+  <a href="https://leonleiwang.github.io/"><img src="https://img.shields.io/badge/Website-Portfolio-2C5868?style=for-the-badge&amp;labelColor=35434C" alt="Personal website and portfolio"></a>
 </p>
 
 <p>
