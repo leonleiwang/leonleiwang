@@ -1,11 +1,14 @@
 <div align="center">
 
-<h1>
-  王磊 / Lei Wang / Leon Wang<br>
-  <a href="https://leonleiwang.github.io/"><img src="https://img.shields.io/badge/Website-Personal_Site-2C5868?style=for-the-badge&amp;labelColor=35434C" height="28" alt="Website · Personal Site"></a>
-  <a href="https://www.linkedin.com/in/lei-wang-5a297428a/"><img src="https://img.shields.io/badge/LinkedIn-Profile-2C5868?style=for-the-badge&amp;labelColor=35434C" height="28" alt="LinkedIn · Profile"></a>
-  <a href="mailto:leonlei.wang@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-2C5868?style=for-the-badge&amp;labelColor=35434C" height="28" alt="Email · Contact"></a>
-</h1>
+# 王磊 / Lei Wang / Leon Wang
+
+<p>
+  <a href="https://leonleiwang.github.io/"><img src="https://img.shields.io/badge/Website-Personal_Site-2C5868?style=for-the-badge&amp;labelColor=35434C" height="23" alt="Website · Personal Site"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/lei-wang-5a297428a/"><img src="https://img.shields.io/badge/LinkedIn-Profile-2C5868?style=for-the-badge&amp;labelColor=35434C" height="23" alt="LinkedIn · Profile"></a>
+  &nbsp;
+  <a href="mailto:leonlei.wang@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-2C5868?style=for-the-badge&amp;labelColor=35434C" height="23" alt="Email · Contact"></a>
+</p>
 
 **AI Agent 应用开发 | LLM 大模型应用开发 | 全栈工程师 | AI 全栈产品开发**  
 **AI Agent Engineer | LLM Application Engineer | Fullstack Developer | Fullstack AI Products**
