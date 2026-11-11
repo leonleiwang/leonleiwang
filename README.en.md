@@ -2,8 +2,6 @@
 
 # Lei Wang / Leon Wang
 
-**AI Agent Engineer | LLM Application Engineer | Fullstack Developer | Fullstack AI Products**
-
 <p>
   <a href="https://leonleiwang.github.io/"><img src="https://img.shields.io/badge/Website-Personal_Site-2C5868?style=for-the-badge&amp;labelColor=35434C" height="28" alt="Website · Personal Site"></a>
   &nbsp;
@@ -11,6 +9,8 @@
   &nbsp;
   <a href="mailto:leonlei.wang@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-2C5868?style=for-the-badge&amp;labelColor=35434C" height="28" alt="Email · Contact"></a>
 </p>
+
+**AI Agent Engineer | LLM Application Engineer | Fullstack Developer | Fullstack AI Products**
 
 <p>
   English · <a href="./README.md">中文</a>
