@@ -3,11 +3,9 @@
 # 王磊 / Lei Wang / Leon Wang
 
 <p>
-  <a href="https://leonleiwang.github.io/"><img src="https://img.shields.io/badge/Website-Personal_Site-027FC6?style=for-the-badge&amp;labelColor=555555&amp;logo=googlechrome&amp;logoColor=4185F5" height="23" alt="Website · Personal Site"></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/lei-wang-5a297428a/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&amp;labelColor=555555" height="23" alt="LinkedIn · Profile"></a>
-  &nbsp;
-  <a href="mailto:leonlei.wang@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&amp;labelColor=555555" height="23" alt="Email · Contact"></a>
+  <a href="https://leonleiwang.github.io/"><img src="https://img.shields.io/badge/Website-Personal_Site-027FC6?style=for-the-badge&amp;labelColor=555555&amp;logo=googlechrome&amp;logoColor=4185F5" height="21" alt="Website · Personal Site"></a>
+  <a href="https://www.linkedin.com/in/lei-wang-5a297428a/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&amp;labelColor=555555&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB4PSIxIiB5PSIxIiB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIHJ4PSIyIiBmaWxsPSIjNDE4NUY1Ii8%2BPGNpcmNsZSBjeD0iNi41IiBjeT0iNi41IiByPSIxLjUiIGZpbGw9IiM1NTUiLz48cGF0aCBmaWxsPSIjNTU1IiBkPSJNNSA5aDN2MTBINXptNSAwaDN2MS4zYTMuNiAzLjYgMCAwIDEgNi41IDIuMlYxOWgtM3YtNmExLjcgMS43IDAgMCAwLTMuNSAwdjZoLTN6Ii8%2BPC9zdmc%2B" height="21" alt="LinkedIn · Profile"></a>
+  <a href="mailto:leonlei.wang@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&amp;labelColor=555555&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB4PSIxLjUiIHk9IjQuNSIgd2lkdGg9IjIxIiBoZWlnaHQ9IjE1IiByeD0iMiIgZmlsbD0iIzQxODVGNSIvPjxwYXRoIGQ9Im0yLjUgNiA5LjUgNyA5LjUtNyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNTU1IiBzdHJva2Utd2lkdGg9IjEuNyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPC9zdmc%2B" height="21" alt="Email · Contact"></a>
 </p>
 
 **AI Agent 应用开发 | LLM 大模型应用开发 | 全栈工程师 | AI 全栈产品开发**  
