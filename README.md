@@ -6,7 +6,11 @@
 **AI Agent Engineer | LLM Application Engineer | Fullstack Developer | Fullstack AI Products**
 
 <p>
-  <a href="https://leonleiwang.github.io/"><img src="https://img.shields.io/badge/Website-Portfolio-2C5868?style=for-the-badge&amp;labelColor=35434C" alt="个人网站 / Website Portfolio"></a>
+  <a href="https://leonleiwang.github.io/"><img src="https://img.shields.io/badge/Website-Personal_Site-2C5868?style=for-the-badge&amp;labelColor=35434C" height="28" alt="Website · Personal Site"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/lei-wang-5a297428a/"><img src="https://img.shields.io/badge/LinkedIn-Profile-2C5868?style=for-the-badge&amp;labelColor=35434C" height="28" alt="LinkedIn · Profile"></a>
+  &nbsp;
+  <a href="mailto:leonlei.wang@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-2C5868?style=for-the-badge&amp;labelColor=35434C" height="28" alt="Email · Contact"></a>
 </p>
 
 <p>
