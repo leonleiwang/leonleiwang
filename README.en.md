@@ -3,11 +3,11 @@
 # Lei Wang / Leon Wang
 
 <p>
-  <a href="https://leonleiwang.github.io/"><img src="https://img.shields.io/badge/Website-Personal_Site-2C5868?style=for-the-badge&amp;labelColor=35434C" height="23" alt="Website · Personal Site"></a>
+  <a href="https://leonleiwang.github.io/"><img src="https://img.shields.io/badge/Website-Personal_Site-027FC6?style=for-the-badge&amp;labelColor=555555&amp;logo=googlechrome&amp;logoColor=4185F5" height="23" alt="Website · Personal Site"></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/lei-wang-5a297428a/"><img src="https://img.shields.io/badge/LinkedIn-Profile-2C5868?style=for-the-badge&amp;labelColor=35434C" height="23" alt="LinkedIn · Profile"></a>
+  <a href="https://www.linkedin.com/in/lei-wang-5a297428a/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&amp;labelColor=555555" height="23" alt="LinkedIn · Profile"></a>
   &nbsp;
-  <a href="mailto:leonlei.wang@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-2C5868?style=for-the-badge&amp;labelColor=35434C" height="23" alt="Email · Contact"></a>
+  <a href="mailto:leonlei.wang@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&amp;labelColor=555555" height="23" alt="Email · Contact"></a>
 </p>
 
 **AI Agent Engineer | LLM Application Engineer | Fullstack Developer | Fullstack AI Products**
